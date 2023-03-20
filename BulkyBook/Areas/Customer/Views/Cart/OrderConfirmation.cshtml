@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Payment Successful</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+			color: #333;
+			text-align: center;
+			margin: 0;
+			padding: 0;
+		}
+
+		h1 {
+			font-size: 2.5rem;
+			margin-top: 2rem;
+		}
+
+		p {
+			font-size: 1.2rem;
+			margin-top: 1.5rem;
+		}
+
+		button {
+			background-color: #4CAF50;
+			color: white;
+			padding: 1rem;
+			border: none;
+			border-radius: 4px;
+			font-size: 1rem;
+			cursor: pointer;
+			margin-top: 1.5rem;
+		}
+
+			button:hover {
+				background-color: #3e8e41;
+			}
+	</style>
+</head>
+<body>
+	<h1>Payment Successfully ! <i class="bi bi-check-lg"></i></h1>
+	<p>Thank you for your purchase!</p>
+	<p>Your payment has been successfully processed.</p>
+	<a asp-controller="Home" asp-action="Index" class="btn-primary btn-primary:active 
+    background-color: #8064A2;	">Continue Shopping <i class="bi bi-cart-check-fill"></i></a>
+</body>
+</html>

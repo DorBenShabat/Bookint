@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBook.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBook.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\css\\bootswatchThem.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchThem.css"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\Successful.png",
+      "PackagePath": "staticwebassets\\images\\Successful.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\3ab4614d-3aec-4151-96bb-d29773920d1d.png",
+      "PackagePath": "staticwebassets\\images\\products\\3ab4614d-3aec-4151-96bb-d29773920d1d.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\48a3a1fc-c107-4a76-bea3-c4f19773a6f5.png",
+      "PackagePath": "staticwebassets\\images\\products\\48a3a1fc-c107-4a76-bea3-c4f19773a6f5.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\4a094b5b-bd1a-411a-a878-065abc982aaa.png",
+      "PackagePath": "staticwebassets\\images\\products\\4a094b5b-bd1a-411a-a878-065abc982aaa.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\51339191-698b-414b-8646-882868397910.png",
+      "PackagePath": "staticwebassets\\images\\products\\51339191-698b-414b-8646-882868397910.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\66c757b8-8a8a-4b68-98e0-7ac4bccfd0d3.png",
+      "PackagePath": "staticwebassets\\images\\products\\66c757b8-8a8a-4b68-98e0-7ac4bccfd0d3.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\74090bfb-8168-4342-9701-55d64ae55208.png",
+      "PackagePath": "staticwebassets\\images\\products\\74090bfb-8168-4342-9701-55d64ae55208.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\7d5a5987-ccd8-4f0e-9bca-c38837296964.png",
+      "PackagePath": "staticwebassets\\images\\products\\7d5a5987-ccd8-4f0e-9bca-c38837296964.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\a5172657-98fb-4e7a-8d22-b5806b701b96.png",
+      "PackagePath": "staticwebassets\\images\\products\\a5172657-98fb-4e7a-8d22-b5806b701b96.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\images\\products\\aa598209-e73e-443e-a744-97fcfc7beaa7.png",
+      "PackagePath": "staticwebassets\\images\\products\\aa598209-e73e-443e-a744-97fcfc7beaa7.png"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dorbs\\OneDrive\\שולחן העבודה\\BulkyBookWeb-New\\BulkyBookWeb\\BulkyBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BulkyBook.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BulkyBook.props",
+      "PackagePath": "build\\BulkyBook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBook.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BulkyBook.props",
+      "PackagePath": "buildTransitive\\BulkyBook.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
